@@ -1,0 +1,6 @@
+int big = 0;
+		int num;
+		System.out.println("enter the number");
+		Scanner input = new Scanner(System.in);
+		int n = input.nextInt();
+		num
