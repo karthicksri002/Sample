@@ -3,4 +3,4 @@ int big = 0;
 		System.out.println("enter the number");
 		Scanner input = new Scanner(System.in);
 		int n = input.nextInt();
-		num
+		num kathick first git hub repository
